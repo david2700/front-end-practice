@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --primary-default: #3b82f6; /* Tailwind blue-500 */
+    --primary-variant: #2c3ec4;
+    --primary-hover: hsl(233, 90.5%, 63.8%);
+    --secondary-default: #0bb32a;
+    --neutral-default: #a4a9b3;
+    /* Add more as needed */
+  }
